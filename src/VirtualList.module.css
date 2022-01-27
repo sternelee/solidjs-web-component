@@ -1,0 +1,8 @@
+.view-area {
+  overflow: auto;
+}
+
+.virtual-inner {
+  height: 30px;
+  line-height: 30px;
+}
