@@ -1,6 +1,8 @@
-## Usage
+# 利用 `solidjs` 实现 `web component`
 
-利用 `solidjs` 实现 `web component` 的[虚拟长列表](https://developer.aliyun.com/article/833656)
+相法来源自 [虚拟长列表](https://developer.aliyun.com/article/833656)
+
+## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
 
