@@ -1,6 +1,6 @@
 # 利用 `solidjs` 实现 `web component`
 
-相法来源自 [虚拟长列表](https://developer.aliyun.com/article/833656)
+想法来源自 [虚拟长列表](https://developer.aliyun.com/article/833656)
 
 ## Usage
 
